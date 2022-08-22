@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @bijeshsingha
-- 👀 I’m interested in Changing the world
+- 👀 I’m interested in programming
 - 🌱 I’m currently learning to Program computers
 - 💞️ I’m looking to collaborate on Brainstorming and Solving Complex Problem for the advancement of Human Race
 - 📫 How to reach me singhabijesh7@gmail.com
