@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @bijeshsingha
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning to Program computers
-- 💞️ I’m looking to collaborate on Brainstorming and Solving Complex Problem for the advancement of Human Race
+- 💞️ I’m looking to collaborate on Brainstorming and Solving Complex Problem
 - 📫 How to reach me singhabijesh7@gmail.com
 
 <!---
